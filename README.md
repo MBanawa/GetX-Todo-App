@@ -1,16 +1,15 @@
-# flutter_getx_todo_app
+# GetX Todo App
 
 Flutter ToDo App using GetX
 
-## Getting Started
+## About this project
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Create and set up a Flutter project environment to work with Get package;
+2. Draw two screens using Flutter standard widgets;
+3. Navigate between screens using Get navigation features;
+3. Manage the state of the application using the simplicity of the GetXController;
+4. Make the UI reactive in a very efficient way, rebuilding only the necessary widgets and not the entire screen;
+5. Create and manage snackbars with just one line of code with Get built-in functions;
+6. Implement a undo function triggered by a button inside the snackbar;
+7. Use a GetX worker to listen to state changes;
+8. Store the to-do list inside non-volatile memory, keeping the data available even if the app is closed.
